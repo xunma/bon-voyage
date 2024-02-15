@@ -1,3 +1,6 @@
+### What is this for?
+This is a web scraper that helps reserves a French visa appointment on TLS（刷位置）. It doesn't necessarily guarantee a slot, but it's worth a try when you are helpless. Note that your account may be banned. Bonne chance!
+
 ### To my only user Aggy
 
 #### Keep in mind
